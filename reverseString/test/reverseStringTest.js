@@ -18,7 +18,7 @@ describe('Reversing a String', ()=>{
     it('Should return "ssob" when in put is "boss"', ()=>{
         assert.equal(reverseString('boss'), 'ssob')
     })
-    it('Should return "god" when in put is "dog"', ()=>{
+    it('Should return god when in put is dog', ()=>{
         assert.equal(reverseString('dog'), 'god')
     })
     })
