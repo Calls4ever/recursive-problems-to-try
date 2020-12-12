@@ -1,0 +1,19 @@
+{
+  "name": "recursive-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calls4ever/recursive-problems-to-try.git"
+  },
+  "author": "Tsering Norbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calls4ever/recursive-problems-to-try/issues"
+  },
+  "homepage": "https://github.com/Calls4ever/recursive-problems-to-try#readme"
+}
